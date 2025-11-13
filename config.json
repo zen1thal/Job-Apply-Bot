@@ -2,8 +2,14 @@
 {
     "username": "",
     "password": "",
+    "fullname": "",
+    "email": "",
+    "phone": "",
     "keywords": ["software engineer", "developer", "programmer"],
     "location": ["Madrid"],
     "chrome_user_data_dir": "",
-    "chrome_profile": "Profile 1" 
+    "chrome_profile": "Profile 1",
+    "ollama_model": "llama3.1:8b",
+    "ollama_embed": "mxbai-embed-large",
+    "pdf_path": "cv.pdf"
 }

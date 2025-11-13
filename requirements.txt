@@ -1,2 +1,6 @@
 selenium
 webdriver-manager
+ollama
+chromadb
+tqdm
+PyPDF2
